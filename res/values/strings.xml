@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Notification_Test">Notification Test</string>
+    <string name="NavigaitionBar_Hide">Hide NavigaitionBar</string>
+    <string name="NavigaitionBar_Show">Show NavigaitionBar</string>
+    <string name="Request_Root">Request Root</string>
+    <string name="List_Group_Test">GroupList</string>
+    <string name="OpenGL_ES_Test">OpenGL ES</string>
+
+</resources>
